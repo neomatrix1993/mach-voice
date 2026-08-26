@@ -57,7 +57,7 @@ Settings → Privacy & Security**. Some features will stop working when their
 required permissions are revoked.
 
 For account deletion, privacy questions, or data requests, email
-[hello@usemach.app](mailto:hello@usemach.app) from the address associated with
+[support@usemach.app](mailto:support@usemach.app) from the address associated with
 your Mach account.
 
 ## Learn more

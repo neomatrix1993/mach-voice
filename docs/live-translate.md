@@ -9,7 +9,7 @@ source instead of joining as a meeting bot.
 You need:
 
 - Mach 1.1.0 or later;
-- macOS 14 or later;
+- macOS 14.2 or later;
 - an internet connection;
 - an active Mach account; and
 - macOS System Audio Recording permission.
@@ -74,6 +74,16 @@ start a short test session.
 
 Stop the session, open Mach, choose **Reset Connection**, and try again. If the
 problem continues, quit and reopen Mach.
+
+### Live Translate limit reached
+
+Mach keeps an explanation visible when your current Live Translate allowance
+has been reached. Use **Request more time** in the Live Translate window to
+contact support through your signed-in account. You can retry after your
+allowance resets or additional access is approved.
+
+Review the current [Mach pricing](https://usemach.app/pricing) and
+[Fair Use Policy](https://usemach.app/terms#fair-use) for applicable limits.
 
 For more help, visit [Mach Support](https://usemach.app/support) and include your
 macOS version, Mach version, selected audio source, language pair, and the

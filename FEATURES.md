@@ -87,7 +87,8 @@ Read the [privacy overview](docs/privacy.md) and the controlling
 
 ## Requirements
 
-- macOS 14 or later
+- macOS 14 or later for Mach dictation
+- macOS 14.2 or later for Live Translate
 - An internet connection
 - Microphone and Accessibility access for dictation
 - macOS System Audio Recording access for Live Translate

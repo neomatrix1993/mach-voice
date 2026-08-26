@@ -37,5 +37,5 @@ reporting process in [SECURITY.md](SECURITY.md).
 
 For account deletion, privacy questions, or data requests, follow the
 [Mach Privacy Policy](https://usemach.app/privacy) and contact
-[hello@usemach.app](mailto:hello@usemach.app) from the email address associated
+[support@usemach.app](mailto:support@usemach.app) from the email address associated
 with your Mach account.
