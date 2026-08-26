@@ -1,20 +1,23 @@
 # Mach privacy overview
 
-Mach is designed to process your voice for dictation while minimizing retained
-content. This page is a plain-language product overview, not the legal privacy
-policy. The current, controlling policy is always published at
+Mach is designed to process voice and selected Mac audio while minimizing
+retained content. This page is a plain-language product overview, not the legal
+privacy policy. The current, controlling policy is always published at
 [usemach.app/privacy](https://usemach.app/privacy).
 
-## What happens during dictation
+## What happens during audio processing
 
-1. Mach captures audio only after you start a dictation in the Mac app.
-2. Audio is sent securely to Mach's backend and processing providers for
-   transcription and, when selected, text refinement.
-3. The resulting text is returned to the app and inserted into the text field
-   you are using.
+1. Mach captures audio only after you start dictation or Live Translate.
+2. Dictation uses the microphone you selected. Live Translate uses the Mac
+   audio source shown in its controls and does not use your microphone for the
+   translation stream.
+3. Audio is sent securely to Mach's backend and processing providers for
+   transcription, selected refinement, or translation.
+4. Dictation text is returned to the focused app. Live Translate displays paired
+   original and translated phrases in the current session.
 
-Mach uses a managed cloud workflow; dictation is not an offline, on-device-only
-process.
+Mach uses a managed cloud workflow. Dictation and Live Translate are not
+offline, on-device-only processes.
 
 ## What Mach retains
 
@@ -48,9 +51,10 @@ See [SECURITY.md](../SECURITY.md) to report a suspected vulnerability privately.
 
 ## Your choices
 
-You can stop a dictation, sign out of Mach, or revoke permissions such as
-Microphone and Accessibility in **System Settings → Privacy & Security**. Some
-features will stop working when their required permissions are revoked.
+You can stop dictation or Live Translate, sign out of Mach, or revoke permissions
+such as Microphone, Accessibility, and System Audio Recording in **System
+Settings → Privacy & Security**. Some features will stop working when their
+required permissions are revoked.
 
 For account deletion, privacy questions, or data requests, email
 [hello@usemach.app](mailto:hello@usemach.app) from the address associated with
