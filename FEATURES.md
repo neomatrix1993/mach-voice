@@ -94,3 +94,11 @@ Read the [privacy overview](docs/privacy.md) and the controlling
 - macOS System Audio Recording access for Live Translate
 
 See the [installation guide](docs/installation.md) to get started.
+
+## See Mach in practice
+
+- [Dictation examples](docs/examples.md)
+- [Common use cases](docs/use-cases.md)
+- [Supported languages](docs/languages.md)
+- [Frequently asked questions](docs/faq.md)
+- [Troubleshooting](docs/troubleshooting/README.md)

@@ -89,6 +89,9 @@ For more help, visit [Mach Support](https://usemach.app/support) and include you
 macOS version, Mach version, selected audio source, language pair, and the
 approximate time of the failure. Do not include private conversation content.
 
+For a more detailed decision path, use the
+[Live Translate troubleshooting guide](troubleshooting/live-translate.md).
+
 ## Common uses
 
 - [Meetings and calls](https://usemach.app/use-cases/live-translation/meetings-and-calls)

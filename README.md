@@ -6,6 +6,8 @@ in the apps you already use.
 
 [Visit Mach](https://usemach.app) · [Download for macOS](https://usemach.app/download) · [Help Center](https://usemach.app/help)
 
+[![Mach Live Translate beside a multilingual conversation on macOS](https://usemach.app/live-translation/use-cases/hub-mac-live-translation.webp)](https://usemach.app/use-cases/live-translation)
+
 ## What Mach does
 
 - Turns natural speech into clean, ready-to-use text in Mac apps.
@@ -33,6 +35,11 @@ For detailed product guidance, visit the [Mach Help Center](https://usemach.app/
 - [Installation](docs/installation.md)
 - [Dictation guide](docs/dictation.md)
 - [Live Translate guide](docs/live-translate.md)
+- [Examples](docs/examples.md)
+- [Use cases](docs/use-cases.md)
+- [Languages](docs/languages.md)
+- [Frequently asked questions](docs/faq.md)
+- [Troubleshooting](docs/troubleshooting/README.md)
 - [Privacy overview](docs/privacy.md)
 - [Support](SUPPORT.md)
 - [Security policy](SECURITY.md)
