@@ -8,7 +8,7 @@ responsible reports that help us keep the Mach macOS app and services safe.
 Do not disclose a suspected vulnerability in a public GitHub issue, discussion,
 pull request, or other public channel.
 
-Email [hello@usemach.app](mailto:hello@usemach.app) with the subject
+Email [support@usemach.app](mailto:support@usemach.app) with the subject
 `Security report`. Include, where possible:
 
 - the affected Mach feature, app version, URL, or service;

@@ -9,26 +9,34 @@ in the apps you already use.
 ## What Mach does
 
 - Turns natural speech into clean, ready-to-use text in Mac apps.
-- Supports multilingual dictation, code-switching, and writing-system preferences.
-- Offers refined and verbatim output for different workflows.
-- Translates calls, videos, meetings, and other audio playing on your Mac.
+- Offers Refined output for polished writing and Verbatim output when exact
+  wording matters most.
+- Supports 87 language and regional options, multilingual code-switching, and
+  optional Latin-script output.
+- Translates calls, videos, meetings, radio, and other audio playing on your Mac.
 - Adapts output using your language, tone, custom dictionary, and current app.
 
 ## Get started
 
 1. [Download Mach](https://usemach.app/download).
 2. Follow the [installation guide](docs/installation.md).
-3. Open any text field, press and hold `Fn`, speak, then release to insert the
-   finished text.
+3. Open any text field, hold `Fn`, speak, then release to insert the finished text.
+
+Mach requires macOS 14 or later and an internet connection. Press `Fn + Space`
+to start or stop hands-free dictation.
 
 For detailed product guidance, visit the [Mach Help Center](https://usemach.app/help).
 
 ## Documentation
 
+- [Feature overview](FEATURES.md)
 - [Installation](docs/installation.md)
+- [Dictation guide](docs/dictation.md)
+- [Live Translate guide](docs/live-translate.md)
 - [Privacy overview](docs/privacy.md)
+- [Support](SUPPORT.md)
 - [Security policy](SECURITY.md)
-- [Changelog](CHANGELOG.md)
+- [Product changelog](CHANGELOG.md)
 
 ## About this repository
 

@@ -5,9 +5,9 @@ from download to your first dictation.
 
 ## Before you begin
 
-You need a Mac, an internet connection, and permission to install applications
-and change macOS privacy settings. Mach uses a managed cloud workflow, so an
-internet connection is required while using the service.
+You need a Mac running macOS 14 or later, an internet connection, and permission
+to install applications and change macOS privacy settings. Mach uses online
+services for speech recognition, refinement, and translation.
 
 Always download Mach from the official site:
 [usemach.app/download](https://usemach.app/download).
@@ -15,16 +15,15 @@ Always download Mach from the official site:
 ## Install Mach
 
 1. Open the [Mach download page](https://usemach.app/download) and download the
-   macOS app.
-2. Open the downloaded installer and follow the on-screen steps.
-3. Launch Mach. It runs as a menu-bar app.
-4. Sign in or create an account if prompted.
-5. Complete the permission prompts described below.
+   Mach DMG.
+2. Open the DMG and drag Mach into your Applications folder.
+3. Open Mach from Applications and complete browser sign-in.
+4. Complete the Microphone and Accessibility permission prompts described below.
 
 ## Grant macOS permissions
 
-Mach requests only the macOS permissions needed for the features you use. macOS
-may send you to **System Settings → Privacy & Security** to approve them.
+Mach requires two macOS permissions for dictation. macOS may send you to
+**System Settings → Privacy & Security** to approve them.
 
 ### Microphone
 
@@ -36,11 +35,6 @@ Mach under **Privacy & Security → Microphone**.
 Accessibility access lets Mach insert finished text into the app and text field
 you are using. Enable Mach under **Privacy & Security → Accessibility**.
 
-### Automation
-
-Some workflows may prompt for Automation access so Mach can work with another
-Mac app. Approve it only when you want to use the described integration.
-
 You can review or revoke these permissions at any time in System Settings.
 Revoking a permission will prevent the related feature from working.
 
@@ -51,9 +45,12 @@ Revoking a permission will prevent the related feature from working.
 3. Speak naturally.
 4. Release `Fn` and wait for Mach to insert the finished text.
 
-Mach's shortcuts and output settings can be customized in the app. Review the
-[Help Center](https://usemach.app/help) for current guides to output modes,
-languages, writing systems, and accuracy.
+For hands-free dictation, press `Fn + Space` once to start and again to finish.
+Press `Esc` to cancel without inserting text. Both shortcuts can be changed in
+Dictation Settings.
+
+Read the [dictation guide](dictation.md) for output modes, languages, writing
+systems, personalization, and accuracy.
 
 ## Troubleshooting
 
@@ -67,8 +64,12 @@ For guided fixes, see [Mach Support](https://usemach.app/support) and the
 
 ## Keep Mach up to date
 
-Use Mach's in-app update flow when an update is offered. For a fresh installer or
-the latest public download, return to [usemach.app/download](https://usemach.app/download).
+Mach normally checks for updates about once per day. Available updates can
+download in the background and install when Mach quits. Choose **Check for
+Updates…** inside Mach whenever you want an immediate, visible check.
+
+For a fresh installer or the latest public download, return to
+[usemach.app/download](https://usemach.app/download).
 
 ## Uninstall or revoke access
 
