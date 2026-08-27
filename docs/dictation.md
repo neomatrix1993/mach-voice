@@ -96,6 +96,11 @@ destination app.
 ## Related guides
 
 - [Installation](installation.md)
+- [Dictation examples](examples.md)
+- [Common use cases](use-cases.md)
+- [Supported languages](languages.md)
+- [Frequently asked questions](faq.md)
+- [Troubleshooting](troubleshooting/README.md)
 - [Feature overview](../FEATURES.md)
 - [Privacy overview](privacy.md)
 - [Mach Help Center](https://usemach.app/help)

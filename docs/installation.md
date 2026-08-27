@@ -59,8 +59,9 @@ device. If text does not appear, verify Accessibility access and try a standard
 editable text field. If a session does not finish, check your connection and use
 the reset option in the Mach menu-bar app.
 
-For guided fixes, see [Mach Support](https://usemach.app/support) and the
-[troubleshooting guides](https://usemach.app/help/troubleshooting).
+For guided fixes, start with the local [troubleshooting index](troubleshooting/README.md),
+then see [Mach Support](https://usemach.app/support) or the current
+[Help Center troubleshooting guides](https://usemach.app/help/troubleshooting).
 
 ## Keep Mach up to date
 

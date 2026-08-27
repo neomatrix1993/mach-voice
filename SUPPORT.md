@@ -7,6 +7,9 @@ Choose the channel that matches the problem so it reaches the right place.
 Use the [Mach Help Center](https://usemach.app/help) for installation, output
 modes, languages, accuracy, account, and troubleshooting guidance.
 
+Start with the repository's [troubleshooting index](docs/troubleshooting/README.md)
+for microphone, text-pasting, connection, update, and Live Translate checks.
+
 For help from a person, visit [Mach Support](https://usemach.app/support). Include:
 
 - your macOS and Mach versions;
